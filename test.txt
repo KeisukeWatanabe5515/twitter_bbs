@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-test
-=======
-Hello world!
-
->>>>>>> origin/master
