@@ -1,5 +1,6 @@
 body {
     background-color: #f0f8ff;
+    color: #616c7a;
 }
 
 
@@ -7,8 +8,7 @@ body {
     text-align: left;
     background-color: #fff;
     border-radius: 10px; 
-    color: #616c7a;
-    margin-top: 30px;
+    
     padding: 30px;
 }
 
@@ -29,3 +29,4 @@ header {
 div.margin {
     margin: 5px;
 }
+

@@ -1,0 +1,68 @@
+p {
+    word-wrap: break-word;
+}
+
+.head {
+    text-align: left;
+}
+
+.back {
+    font-family: 'Kosugi Maru', sans-serif;
+    background-color: white;
+    padding: 5px 30px;
+    border: 2px solid #616c7a;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    letter-spacing: 5px;
+    font-size: 1.2em;
+    color: #616c7a;
+}
+
+.back:hover {
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.profile {
+    display: flex;
+
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.img {
+    margin-right: 5px;
+}
+
+.msg {
+    background-color: rgba(218, 238, 241, 0.5);
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+dl {
+    margin-bottom: 0;
+}
+
+
+button {
+    font-family: 'Kosugi Maru', sans-serif;
+    border: 2px solid #616c7a;
+    padding: 5px 30px;
+    letter-spacing: 5px;
+    color: #616c7a;
+}
+
+.btn-danger {
+    border-color: #616c7a;;
+}
+
+button:hover {
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
